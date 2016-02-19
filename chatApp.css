@@ -1,0 +1,27 @@
+/* CSS declarations go here */
+body {
+  font-weight: bold;
+}
+
+.selected {
+  background-color: gray;
+  color: white;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+form.addPlayerForm {
+  margin-top: 30px;
+}
+
+div.extra {
+  margin-top: 20px;
+}
+
+span.selectedName {
+  font-size: 1.2em;
+  font-weight: bolder;
+  color: darkblue;
+}
